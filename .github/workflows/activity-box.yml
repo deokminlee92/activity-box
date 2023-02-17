@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: deokminlee92
-          GIST_ID: 6829556dd2e364a5db715fe88a64c03
+          GIST_ID: 6829556dd2e364a5db715fe88a64c03b
